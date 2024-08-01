@@ -1,0 +1,10 @@
+// problems on linked List
+1. Delete node having specified value.
+2. Display list elements in order and Reverse Order.
+3. Insert a node before and after a specified node.
+4. Delete duplicate node from a sorted list.
+5. Implement doubly linked list and circular list.
+//Recursion
+1.Find Factorial of  a number.
+2.Sum of n numbers
+3.Sum of N numbers in the array.
